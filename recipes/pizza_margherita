@@ -1,0 +1,26 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza Margherita</title>
+  </head>
+  <body>
+    <h1>Pizza Margherita</h1>
+    <img src="./images/Pizza.jpg" alt="Pizza Margherita" height="310" width="310">
+    <p>A freshly baked pizza! </p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>wheat</li>
+      <li>olive oil</li>
+      <li>mozzarella</li>
+      <li>basil</li>
+    </ul>
+
+    <ol>
+      <li>take the ingredients</li>
+      <li>put all together</li>
+      <li>Do not go to Domino's!</li>
+    </ol>
+
+    <a href="../index.html">Home</a>
+
+  </body>
